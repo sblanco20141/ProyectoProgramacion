@@ -17,6 +17,7 @@ public class main {
         // TODO code application logic here
         //Esto es un cambio para que los estudiantes sepan como funciona
         //Segundo cambio
+        int i = 0;
     }
     
 }
